@@ -2,7 +2,7 @@
 
 <!--heading begins-->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=source+code+pro&weight=800&size=23&pause=1000&color=36BCF7FF&random=false&width=435&lines=%3E+What's+Up!%2C+I+am+Ronish+Maharjan" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%3E+What's+up!%2C+I+am+Ronish">
 </div>
 <p align="center" font-family:'inter-tight'>「 Just a simple <strong>Python</strong> programmer. 」</p>
 
@@ -13,7 +13,7 @@
 <div align ="center"> 
   <p><strong>Checkout</strong></p>
   <a href="https://bento.me/ronish"> <img src="https://img.shields.io/badge/Portfolio-768CFF?style=for-the-badge&logo=portfolio&logoColor=white"></a>
-  <a href="https://bento.me/ronish"> <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=portfolio&logoColor=white"></a>
+  <a href="https://www.youtube.com/@ronismlbb"> <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=portfolio&logoColor=white"></a>
 </div>
 <br></br>
 
@@ -21,8 +21,8 @@
 <h2><samp>My GitHub Stats</samp></h2>
 <table>
   <tr>
-    <td><img height="248px" align="center" alt="GitHub Stats" src="https://streak-stats.demolab.com?user=ronismaharjan&theme=tokyonight&border_radius=24.6)](https://git.io/streak-stats"/></td>
-    <td><img height ="248px" width ="auto" align ="center" alt ="GitHub Stats" src ="https://github-readme-stats.vercel.app/api?username=ronismaharjan&theme=ayu-mirage"></td>
+    <td><img height="auto" align="center" alt="GitHub Stats" src="https://streak-stats.demolab.com?user=ronismaharjan&theme=tokyonight&border_radius=24.6)](https://git.io/streak-stats"/></td>
+    <td><img height ="auto" width ="auto" align ="center" alt ="GitHub Stats" src ="https://github-readme-stats.vercel.app/api?username=ronismaharjan&theme=ayu-mirage"></td>
   </tr>
 </table>
 
