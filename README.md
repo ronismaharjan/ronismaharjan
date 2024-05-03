@@ -2,7 +2,7 @@
 
 <!--heading begins-->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=source+code+pro&weight=800&size=23&pause=1000&color=000000&random=false&width=435&lines=%3E+What's+Up!%2C+I+am+Ronish+Maharjan" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=source+code+pro&weight=800&size=23&pause=1000&color=36BCF7FF&random=false&width=435&lines=%3E+What's+Up!%2C+I+am+Ronish+Maharjan" alt="Typing SVG">
 </div>
 <p align="center" font-family:'inter-tight'>「 Just a simple <strong>Python</strong> programmer. 」</p>
 
@@ -44,5 +44,5 @@
 
 <h2><samp>Tools I Use</samp></h2>
 <p>
-  <img src = "https://skillicons.dev/icons?i=vscode,replit,git,pycharm&theme=dark">
+  <img src = "https://skillicons.dev/icons?i=vscode,replit,git,pycharm,github&theme=dark">
 </p>
