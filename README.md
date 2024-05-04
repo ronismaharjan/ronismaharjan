@@ -7,14 +7,28 @@
 <p align="center" font-family:'inter-tight'>「 Just a simple <strong>Python</strong> programmer. 」</p>
 
 <!--About Section-->
-<h1><samp>About me</samp></h1>
+### About Me
+<h3><p align="center">
+<samp>
+  <b>
+    Loves To Code.
+    <br>
+   Computer Science And Information Technology Student.
+    <br>
+    Enjoy Building Cool Projects.
+    <br>
+    <br>
+    Checkout
+    <br>
+    <a href="https://bento.me/ronish"> <img src="https://img.shields.io/badge/Portfolio-768CFF?style=for-the-badge&logo=portfolio&logoColor=white"></a>
+    <a href="https://www.youtube.com/@ronismlbb"> <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=portfolio&logoColor=white"></a>
+    
+  </b>
+</samp>
+</h3>
+</p>
 
-    Love to code and learn new feature
-<div align ="center"> 
-  <p><strong>Checkout</strong></p>
-  <a href="https://bento.me/ronish"> <img src="https://img.shields.io/badge/Portfolio-768CFF?style=for-the-badge&logo=portfolio&logoColor=white"></a>
-  <a href="https://www.youtube.com/@ronismlbb"> <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=portfolio&logoColor=white"></a>
-</div>
+
 <br></br>
 
 <!--My GitHub section-->
@@ -29,7 +43,6 @@
 
 <!--Language Learned section-->
 <h2><samp>Programming languages</samp></h2>
-
 <table>
     <tr>
       <td><a href="#"><img height="auto" align="center" alt="GitHub Stats" src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark"/></a></td>
@@ -37,11 +50,14 @@
     </tr>
 </table>
 <br/>
+
+<!--otherskills section--->
 <h2><samp>Other Skills</samp></h2>
 <p>
   <img src = "https://skillicons.dev/icons?i=bash,pr&theme=dark">
 </p>
 
+<!--tools section-->
 <h2><samp>Tools I Use</samp></h2>
 <p>
   <img src = "https://skillicons.dev/icons?i=vscode,replit,git,pycharm,github&theme=dark">
