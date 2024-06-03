@@ -59,7 +59,7 @@
 <!--otherskills section--->
 <h2><samp>Other Skills</samp></h2>
 <p>
-  <img src = "https://skillicons.dev/icons?i=bash,pr&theme=dark">
+  <img src = "https://skillicons.dev/icons?i=bash,pr,ps&theme=dark">
 </p>
 
 <!--tools section-->
