@@ -5,7 +5,6 @@
     <img width="100px" align="right" src = "https://komarev.com/ghpvc/?username=ronismaharjan&style=flat-square"><br>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%3E+What's+up!%2C+I+am+Ronish">
 </div>
-<p align="center" font-family:'inter-tight'>「 Just a simple <strong>Python</strong> programmer. 」</p>
 
 <!--About Section-->
 ### About Me 
@@ -21,7 +20,7 @@
       <br>
     Checkout
     <br>
-    <a href="https://bento.me/ronish"> <img src="https://img.shields.io/badge/Portfolio-768CFF?style=for-the-badge&logo=portfolio&logoColor=white"></a>
+    <a href="https://ronishmaharjan.info.np"> <img src="https://img.shields.io/badge/Website-768CFF?style=for-the-badge&logo=portfolio&logoColor=white"></a>
     <a href="https://www.youtube.com/@ronismlbb"> <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=portfolio&logoColor=white"></a>
       <br>
     
